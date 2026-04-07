@@ -18,3 +18,5 @@ This portfolio holds code, files and content for a Next.js portfolio website hos
 <li>Fast loading times: CloudFront</li>
 <li>Fast deployment of Portfolio Website to AWS: IaC Terraform infrastructure build</l1>
 </ul>
+
+Additional details on the Next.js aspects on this loom video: https://www.loom.com/share/1e669a6e741c44eba3109e09d48cfbc9
